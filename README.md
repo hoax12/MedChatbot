@@ -1,6 +1,6 @@
 # 🧠 Biomedical Literature Q&A Chatbot using RAG
 
-This repository contains a biomedical question-answering system based on Retrieval-Augmented Generation (RAG). The system integrates dense retrieval using MiniLM embeddings and FAISS with generative answering via a fine-tuned Mistral-7B-v0.3 language model using QLoRA.
+This repository contains a biomedical question-answering system based on Retrieval-Augmented Generation (RAG). The system integrates dense retrieval using MiniLM embeddings and FAISS with generative answering via a fine-tuned Mistral-7B-v0.3 language model using QLoRA. 
 
 ## 🚀 Features
 - 🔍 Semantic search over biomedical texts using FAISS
@@ -25,6 +25,9 @@ All data sources were preprocessed into JSON/text chunks, embedded using `multi-
 - `faiss` for vector search
 - `gradio` for UI 
 - `BERTScore` for evaluation
+  
+## Drive Folder with code and demo video 
+Link - https://drive.google.com/drive/folders/1SVMlMgPWHKg_khI3cOl5jTRKihET7l5W?usp=sharing
 
 ## 📊 Results
 | Setup                           | BERTScore (F1) |
