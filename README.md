@@ -6,7 +6,7 @@ This repository contains a biomedical question-answering system based on Retriev
 - 🔍 Semantic search over biomedical texts using FAISS
 - 🤖 Answer generation via fine-tuned Mistral-7B (QLoRA)
 - 🏥 Evaluated on both general and breast cancer Q&A datasets using BERTScore
-- 🖥️ Clean and responsive Gradio-based chatbot interface [Live link - https://3e7a084c5a55830ef7.gradio.live/]
+- 🖥️ Clean and responsive Gradio-based chatbot interface 
   
 ## 📚 Data Sources
 This system retrieves and answers questions using a curated and diverse biomedical corpus, including:
