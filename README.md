@@ -23,7 +23,7 @@ All data sources were preprocessed into JSON/text chunks, embedded using `multi-
 - `transformers` + `peft` (for QLoRA)
 - `sentence-transformers` (MiniLM embeddings)
 - `faiss` for vector search
-- `gradio` for UI 
+- `gradio` for UI
 - `BERTScore` for evaluation
   
 ## Drive Folder with code and demo video 
